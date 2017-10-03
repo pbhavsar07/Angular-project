@@ -1,0 +1,15 @@
+All about project 
+------------------
+
+We have 2 Major modules in our project i.e  Recipes and Shopping list
+In Recipes you can view the Recipes that we have you can Manage Recipe i.e Edit it or Delete it, also you can send the Ingredients of the current recipes to the shopping list Module. Of course you can add the new Recipe of your choice and can save data or fetch the  original data.
+
+In Shopping list module - we have list of ingredient. That we need. We already have 
+2 items in our shopping bag i.e Apples and Tomatoes with its amount you can update them or can delete them. Also you can add variety of Ingredients in your shopping-list.
+
+All can only be done if you are Logged in as a Authorized user.
+
+I also implemented Addons like Authentication, Guards, Lazyloading, Optimization,
+
+
+Many more specification are still in progress.
